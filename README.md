@@ -14,4 +14,4 @@ A basic webpage built to advertise a mobile app called Excursion.
 - CSS
 
 ## Status
-Project is: _in progress_
+Project is: _completed_
